@@ -96,6 +96,6 @@ public class Particle{
 	llzamenhof.checkRatios();
 
 	//Successful tests:
-	7 and 9 only.
+	//7 and 9 only.
     }
 }    
